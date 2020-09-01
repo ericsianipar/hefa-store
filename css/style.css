@@ -40,13 +40,18 @@ body {
     font-weight: 200;
 }
 
-.features h3 {
+.carousel img {
+    width: 236px;
+    height: 340px;
+}
+
+.features h3, .designer h3 {
     font-family: 'Lora';
     color: #1B2690;
     font-weight: bold;
 }
 
-.features p {    
+.features p, .designer p {    
     font-weight: 200;
     color: #B7B7B7;
 }
