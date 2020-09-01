@@ -2,6 +2,10 @@ body {
     font-family: 'Montserrat';
 }
 
+nav.navbar-ats {
+    border-bottom: 1px solid #333;
+}
+
 .navbar {
     background-color: #171717;
 }
